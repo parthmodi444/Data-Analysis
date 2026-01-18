@@ -1,0 +1,373 @@
+ID1,Find,Conven,Suited,Last_Purchase,gender,age,neighbourhood,Work,Browse,Satisfied,Payment,Recommend,Site_Visits,First_Qt,Second_Qt,Third_Qt,Fourth_Qt,Total_Spend,Profit_Percentage
+1,Slightly likely,Quite convenient,Quite suited,Clothes,Female,24,Rural,Part-time,Once a week,Partially satisfied,Card,Yes,14,14,22,13,91,140,10
+2,Slightly likely,Slightly convenient,Extremely suited,Household,Female,25,Urban,Full-time,Daily,Satisfied,Card,Yes,16,35,46,26,48,155,12
+3,Quite unlikely,Quite convenient,Slightly suited,Food,Male,18,Rural,Part-time,Daily,Satisfied,Card,Yes,15,22,22,40,84,168,14
+4,Slightly unlikely,Quite convenient,Slightly suited,Clothes,Male,22,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,12,28,26,19,36,109,20
+5,Slightly likely,Extremely convenient,Extremely suited,Food,Male,24,Urban,Full-time,Daily,Satisfied,PayPal,Yes,11,59,59,38,69,225,11
+6,Slightly unlikely,Slightly convenient,Slightly suited,Household,Male,36,Urban,Full-time,Once a week,Partially satisfied,Card,No,12,16,19,19,31,85,8
+7,Extremely unlikely,Slightly convenient,Neither suited nor unsuited,Food,Female,22,Urban,Full-time,Daily,Satisfied,Card,Yes,20,28,31,28,24,111,16
+8,Slightly unlikely,Quite convenient,Slightly suited,Household,Male,28,Urban,Full-time,Daily,Partially satisfied,Card,Yes,9,40,34,19,26,119,10
+9,Slightly likely,Quite convenient,Quite suited,Clothes,Male,28,Urban,Full-time,Daily,Partially satisfied,PayPal,No,8,13,16,13,21,63,8
+10,Slightly likely,Extremely convenient,Extremely suited,Food,Female,24,Suburban,Full-time,Daily,Satisfied,Card,Yes,17,38,59,59,18,174,13
+11,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Male,25,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,18,15,12,14,54,95,5
+12,Extremely unlikely,Slightly convenient,Quite suited,Food,Female,22,Suburban,Full-time,More than once a week,Partially satisfied,PayPal,Yes,15,20,26,25,43,114,6
+13,Extremely unlikely,Quite convenient,Quite suited,Clothes,Female,21,Rural,Full-time,More than once a week,Partially satisfied,Card,No,10,12,22,12,102,148,10
+14,Slightly unlikely,Quite convenient,Quite suited,Clothes,Male,20,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,12,18,26,14,56,114,11
+15,Slightly likely,Slightly convenient,Extremely suited,Household,Female,35,Urban,Part-time,Once a year,Partially satisfied,Card,Yes,13,31,38,28,40,137,9
+16,Extremely unlikely,Extremely convenient,Extremely suited,Food,Male,25,Urban,Full-time,Daily,Satisfied,Card,Yes,17,30,20,16,47,113,12
+17,Extremely unlikely,Extremely convenient,Extremely suited,Food,Female,23,Urban,Full-time,Daily,Satisfied,PayPal,Yes,18,46,46,46,147,285,21
+18,Extremely unlikely,Extremely convenient,Extremely suited,Clothes,Female,22,Rural,Full-time,Daily,Satisfied,Card,Yes,19,38,38,38,119,233,19
+19,Extremely unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Female,23,Suburban,Full-time,Daily,Satisfied,PayPal,Yes,14,26,26,26,27,105,10
+20,Extremely unlikely,Slightly convenient,Slightly suited,Household,Female,24,Urban,Full-time,Daily,Partially satisfied,Card,Yes,16,22,22,22,42,108,9
+21,Extremely unlikely,Quite convenient,Extremely suited,Food,Female,25,Urban,Full-time,Daily,Satisfied,Card,Yes,21,34,52,34,84,204,18
+22,Extremely unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Male,26,Rural,Full-time,Daily,Satisfied,Card,Yes,15,25,26,26,66,143,12
+23,Neither likely nor unlikely,Quite convenient,Neither suited nor unsuited,Household,Male,22,Suburban,Full-time,Daily,Partially satisfied,Card,Yes,13,26,22,19,84,151,14
+24,Quite unlikely,Extremely convenient,Neither suited nor unsuited,Household,Female,23,Rural,Full-time,Daily,Satisfied,Card,Yes,15,18,22,16,15,71,9
+25,Extremely unlikely,Quite convenient,Slightly suited,Clothes,Female,24,Urban,Full-time,More than once a week,Partially satisfied,Card,Yes,8,14,31,13,27,85,10
+26,Extremely likely,Quite convenient,Neither suited nor unsuited,Household,Male,25,Urban,Full-time,Once a week,Partially satisfied,Card,No,13,31,38,16,49,134,9
+27,Extremely unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Female,32,Urban,Full-time,Daily,Satisfied,Card,Yes,16,22,26,26,42,116,5
+28,Quite unlikely,Quite convenient,Neither suited nor unsuited,Clothes,Female,24,Rural,Full-time,Daily,Satisfied,Card,Yes,10,14,52,11,10,87,6
+29,Extremely unlikely,Quite convenient,Quite suited,Food,Male,31,Urban,Full-time,Daily,Satisfied,Card,Yes,13,45,59,40,32,176,12
+30,Extremely unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Female,30,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,11,45,59,34,33,171,11
+31,Quite unlikely,Quite convenient,Extremely suited,Clothes,Male,35,Suburban,Full-time,Daily,Partially satisfied,Card,No,22,40,52,34,71,197,10
+32,Slightly likely,Extremely convenient,Quite suited,Household,Female,37,Urban,Full-time,Daily,Partially satisfied,Card,No,9,14,38,14,68,134,10
+33,Quite likely,Quite convenient,Slightly suited,Clothes,Female,35,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,9,12,52,13,14,91,9
+34,Neither likely nor unlikely,Quite convenient,Quite suited,Clothes,Female,25,Suburban,Part-time,More than once a week,Partially satisfied,Card,Yes,13,16,22,16,31,85,5
+35,Slightly likely,Extremely convenient,Extremely suited,Household,Male,25,Suburban,Part-time,More than once a week,Partially satisfied,Card,Yes,15,26,28,19,54,127,14
+36,Slightly likely,Extremely convenient,Slightly suited,Garden,Female,27,Urban,Full-time,Daily,Satisfied,PayPal,Yes,14,13,59,13,24,109,12
+37,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Female,42,Suburban,Full-time,Daily,Satisfied,Card,Yes,15,40,19,19,48,126,10
+38,Slightly unlikely,Quite convenient,Slightly suited,Clothes,Female,30,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,10,16,22,19,51,108,9
+39,Quite likely,Extremely convenient,Quite suited,Clothes,Female,24,Suburban,Full-time,Once a week,Partially satisfied,Card,No,10,16,12,14,34,76,10
+40,Quite likely,Extremely convenient,Quite suited,Clothes,Female,28,Rural,Full-time,Once a week,Partially satisfied,PayPal,Yes,10,14,14,12,14,54,6
+41,Slightly unlikely,Slightly convenient,Neither suited nor unsuited,Garden,Male,23,Rural,Full-time,More than once a week,Partially satisfied,PayPal,Yes,15,35,40,12,56,143,12
+42,Extremely unlikely,Quite convenient,Extremely suited,Food,Male,25,Urban,Full-time,Daily,Satisfied,Card,Yes,15,30,59,35,24,148,11
+43,Slightly likely,Extremely convenient,Extremely suited,Household,Female,30,Urban,Part-time,Once a week,Partially satisfied,Card,Yes,9,14,26,11,12,63,9
+44,Slightly unlikely,Extremely convenient,Extremely suited,Garden,Male,52,Suburban,Full-time,Once a month,Partially satisfied,Card,Yes,9,9,26,11,15,61,9
+45,Slightly likely,Neither convenient nor inconvenient,Extremely suited,Clothes,Male,43,Urban,Full-time,Daily,Satisfied,Card,Yes,15,14,16,14,40,84,5
+46,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,35,Urban,Full-time,Daily,Satisfied,Card,Yes,16,26,22,22,22,92,14
+47,Slightly likely,Slightly convenient,Extremely suited,Food,Male,37,Rural,Full-time,More than once a week,Partially satisfied,PayPal,Yes,17,38,59,45,32,174,10
+48,Slightly likely,Extremely convenient,Extremely suited,Food,Female,41,Urban,Part-time,Daily,Satisfied,Card,Yes,19,38,59,38,69,204,9
+49,Slightly likely,Slightly convenient,Quite suited,Household,Male,33,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,11,26,26,26,84,162,5
+50,Slightly likely,Slightly convenient,Neither suited nor unsuited,Clothes,Male,27,Urban,Full-time,More than once a week,Partially satisfied,Card,Yes,14,8,26,22,48,104,6
+51,Extremely unlikely,Quite convenient,Neither suited nor unsuited,Clothes,Male,40,Rural,Full-time,Daily,Satisfied,Card,Yes,19,46,35,46,26,153,12
+52,Extremely likely,Quite convenient,Quite suited,Clothes,Male,29,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,10,12,45,15,21,93,11
+53,Extremely unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,40,Urban,Full-time,Daily,Satisfied,Card,Yes,15,25,26,26,63,140,10
+54,Extremely likely,Slightly convenient,Slightly suited,Clothes,Male,25,Suburban,Full-time,More than once a month,Partially satisfied,Card,Yes,11,18,28,12,29,87,10
+55,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Female,25,Suburban,Full-time,Daily,Satisfied,Card,Yes,18,16,16,13,60,105,9
+56,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,31,Urban,Full-time,Once a year,Partially satisfied,Card,No,8,6,14,11,49,80,5
+57,Slightly likely,Neither convenient nor inconvenient,Extremely suited,Household,Male,25,Urban,Full-time,More than once a week,Partially satisfied,Card,Yes,13,18,26,26,126,196,14
+58,Quite likely,Extremely convenient,Slightly suited,Clothes,Male,26,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,9,26,22,19,70,137,12
+59,Quite unlikely,Quite convenient,Slightly suited,Clothes,Male,29,Rural,Full-time,More than once a week,Partially satisfied,PayPal,Yes,11,22,46,22,60,150,10
+60,Quite unlikely,Quite convenient,Neither suited nor unsuited,Clothes,Female,29,Rural,Part-time,Once a week,Partially satisfied,Card,Yes,12,14,18,16,147,195,9
+61,Slightly likely,Quite convenient,Extremely suited,Clothes,Female,25,Rural,Full-time,Daily,Satisfied,Card,Yes,14,40,52,40,35,167,12
+62,Slightly likely,Slightly convenient,Extremely suited,Food,Female,48,Suburban,Full-time,Daily,Satisfied,Card,Yes,19,46,46,46,75,213,11
+63,Slightly likely,Quite convenient,Quite suited,Clothes,Female,18,Suburban,Part-time,Daily,Satisfied,Card,Yes,22,26,26,16,63,131,10
+64,Slightly likely,Quite convenient,Quite suited,Clothes,Female,22,Rural,Student,Daily,Satisfied,Card,Yes,12,14,31,14,105,164,10
+65,Slightly likely,Neither convenient nor inconvenient,Extremely suited,Food,Female,23,Suburban,Student,Daily,Satisfied,Card,Yes,8,52,59,38,39,188,9
+66,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Male,27,Suburban,Part-time,Daily,Satisfied,Card,Yes,19,28,38,26,69,161,5
+67,Slightly likely,Quite convenient,Quite suited,Food,Male,22,Urban,Student,Daily,Satisfied,PayPal,Yes,16,14,14,14,56,98,14
+68,Slightly likely,Slightly convenient,Neither suited nor unsuited,Household,Male,21,Rural,Part-time,More than once a month,Partially satisfied,Card,No,8,22,45,38,30,135,12
+69,Slightly likely,Slightly convenient,Slightly suited,Clothes,Female,21,Suburban,Part-time,Daily,Satisfied,Card,Yes,12,46,40,46,55,187,10
+70,Slightly likely,Quite convenient,Quite suited,Household,Female,25,Urban,Part-time,Daily,Satisfied,Card,Yes,15,26,26,26,94,172,9
+71,Slightly likely,Extremely convenient,Extremely suited,Household,Female,23,Suburban,Part-time,Daily,Satisfied,PayPal,Yes,17,22,16,26,56,120,10
+72,Slightly likely,Quite convenient,Slightly suited,Food,Female,20,Suburban,Part-time,Daily,Satisfied,Card,Yes,8,45,59,28,36,168,6
+73,Extremely likely,Quite convenient,Slightly suited,Food,Male,24,Suburban,Part-time,Daily,Satisfied,Card,Yes,19,25,31,24,50,130,12
+74,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Female,20,Rural,Part-time,Daily,Satisfied,Card,Yes,14,34,38,38,64,174,14
+75,Extremely likely,Slightly convenient,Slightly suited,Household,Male,21,Urban,Student,Daily,Partially satisfied,Card,No,15,14,14,14,147,189,20
+76,Extremely likely,Extremely convenient,Extremely suited,Household,Female,29,Rural,Part-time,Daily,Satisfied,Card,Yes,17,35,35,35,90,195,14
+77,Extremely likely,Quite convenient,Quite suited,Food,Male,40,Urban,Part-time,Daily,Satisfied,PayPal,Yes,12,46,40,25,12,123,12
+78,Extremely likely,Quite convenient,Neither suited nor unsuited,Household,Female,20,Urban,Part-time,Once a week,Partially satisfied,Card,No,8,14,40,11,147,212,25
+79,Extremely likely,Neither convenient nor inconvenient,Quite suited,Clothes,Male,22,Suburban,Part-time,Daily,Satisfied,Card,Yes,15,19,30,28,84,161,12
+80,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,18,Suburban,Part-time,Once every few months,Partially satisfied,Card,Yes,8,9,25,12,20,66,9
+81,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,24,Rural,Part-time,Daily,Satisfied,Card,Yes,15,22,24,24,32,102,10
+82,Extremely likely,Quite convenient,Neither suited nor unsuited,Household,Female,24,Urban,Part-time,More than once a week,Partially satisfied,Card,Yes,15,14,16,16,26,72,8
+83,Extremely likely,Slightly convenient,Slightly suited,Household,Female,24,Suburban,Part-time,Once a week,Partially satisfied,Card,Yes,11,20,20,14,42,96,6
+84,Extremely likely,Slightly convenient,Slightly suited,Garden,Female,22,Urban,Part-time,More than once a month,Partially satisfied,Card,Yes,13,25,19,22,50,116,10
+85,Slightly likely,Slightly convenient,Slightly suited,Clothes,Female,22,Suburban,Part-time,More than once a month,Partially satisfied,Card,Yes,10,10,26,14,32,82,6
+86,Slightly likely,Extremely convenient,Extremely suited,Clothes,Male,31,Suburban,Part-time,Daily,Satisfied,Card,Yes,16,59,59,59,47,224,14
+87,Extremely likely,Quite convenient,Quite suited,Food,Male,33,Suburban,Full-time,More than once a month,Partially satisfied,PayPal,No,8,59,46,52,31,188,12
+88,Extremely likely,Slightly convenient,Slightly suited,Household,Female,22,Suburban,Student,Daily,Satisfied,Card,Yes,12,30,30,30,70,160,12
+89,Extremely likely,Slightly convenient,Slightly suited,Household,Female,24,Suburban,Part-time,Daily,Satisfied,Card,Yes,17,26,26,26,105,183,14
+90,Extremely likely,Slightly convenient,Slightly suited,Garden,Female,27,Rural,Full-time,Daily,Satisfied,PayPal,Yes,15,46,25,25,40,136,9
+91,Extremely likely,Extremely convenient,Extremely suited,Household,Female,21,Suburban,Part-time,Daily,Satisfied,Card,Yes,22,38,38,38,84,198,10
+92,Extremely likely,Quite convenient,Quite suited,Household,Male,24,Suburban,Part-time,Once a week,Partially satisfied,Card,Yes,9,9,12,14,6,41,9
+93,Extremely likely,Slightly convenient,Extremely suited,Food,Male,27,Rural,Student,Daily,Satisfied,Card,Yes,17,31,26,30,31,118,5
+94,Extremely likely,Slightly convenient,Neither suited nor unsuited,Food,Female,21,Suburban,Part-time,Daily,Satisfied,Card,Yes,8,25,26,22,50,123,6
+95,Extremely likely,Slightly convenient,Neither suited nor unsuited,Garden,Male,20,Rural,Part-time,More than once a week,Satisfied,Card,Yes,13,22,38,22,45,127,12
+96,Extremely likely,Slightly convenient,Slightly suited,Food,Male,22,Rural,Part-time,More than once a week,Partially satisfied,Card,Yes,13,14,19,18,105,156,11
+97,Extremely likely,Slightly convenient,Slightly suited,Food,Female,23,Urban,Student,More than once a week,Satisfied,Card,No,17,26,20,16,84,146,15
+98,Extremely likely,Quite convenient,Slightly suited,Household,Male,21,Rural,Part-time,Daily,Satisfied,Card,Yes,14,26,22,19,40,107,10
+99,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,21,Rural,Part-time,Once a year,Partially satisfied,Card,Yes,8,9,19,11,12,51,6
+100,Extremely likely,Slightly convenient,Quite suited,Household,Male,21,Suburban,Part-time,Daily,Satisfied,Card,Yes,15,34,28,22,33,117,11
+101,Extremely likely,Quite convenient,Quite suited,Garden,Female,31,Urban,Part-time,Once a week,Partially satisfied,Card,No,9,14,14,14,57,99,10
+102,Extremely likely,Extremely convenient,Extremely suited,Household,Male,23,Urban,Part-time,More than once a week,Partially satisfied,Card,Yes,14,52,52,59,20,183,12
+103,Extremely likely,Slightly convenient,Slightly suited,Clothes,Female,29,Rural,Part-time,Once a week,Partially satisfied,PayPal,Yes,14,16,14,16,56,102,8
+104,Extremely likely,Slightly convenient,Slightly suited,Food,Male,22,Suburban,Part-time,Daily,Partially satisfied,Card,Yes,16,14,16,14,69,113,10
+105,Extremely likely,Quite convenient,Quite suited,Garden,Female,20,Suburban,Part-time,Once a month,Partially satisfied,Card,No,9,38,24,10,31,103,14
+106,Extremely likely,Quite convenient,Neither suited nor unsuited,Household,Female,21,Rural,Full-time,Once a month,Partially satisfied,Card,Yes,9,22,22,26,48,118,12
+107,Extremely likely,Slightly convenient,Neither suited nor unsuited,Household,Female,26,Urban,Part-time,Once a week,Partially satisfied,Card,Yes,14,26,30,30,60,146,10
+108,Slightly likely,Neither convenient nor inconvenient,Quite suited,Clothes,Female,25,Rural,Part-time,Once a month,Satisfied,Card,Yes,16,22,18,25,27,92,8
+109,Slightly likely,Quite convenient,Extremely suited,Clothes,Male,28,Rural,Full-time,More than once a week,Satisfied,Card,Yes,10,26,46,15,56,143,10
+110,Slightly likely,Quite convenient,Slightly suited,Clothes,Female,21,Rural,Full-time,More than once a month,Partially satisfied,Card,No,8,38,25,15,20,98,6
+111,Slightly likely,Quite convenient,Quite suited,Clothes,Female,21,Rural,Full-time,Once a month,Partially satisfied,Card,No,8,40,25,20,12,97,8
+112,Slightly likely,Neither convenient nor inconvenient,Slightly suited,Clothes,Female,31,Rural,Student,Once a month,Partially satisfied,Card,No,8,40,25,20,10,95,20
+113,Slightly likely,Slightly convenient,Neither suited nor unsuited,Garden,Male,89,Suburban,Full-time,More than once a week,Satisfied,Card,Yes,16,20,19,22,50,111,10
+114,Slightly likely,Quite convenient,Quite suited,Clothes,Female,24,Suburban,Part-time,Once a week,Partially satisfied,Card,Yes,11,14,20,14,30,78,10
+115,Slightly likely,Quite convenient,Slightly suited,Household,Male,21,Rural,Part-time,Once a week,Partially satisfied,PayPal,Yes,10,14,28,16,43,101,12
+116,Extremely likely,Slightly convenient,Slightly suited,Household,Male,24,Rural,Part-time,More than once a week,Satisfied,Card,Yes,18,26,45,31,36,138,16
+117,Extremely likely,Quite convenient,Slightly suited,Household,Female,29,Urban,Part-time,Daily,Satisfied,Card,Yes,11,26,26,26,30,108,9
+118,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,29,Suburban,Part-time,Daily,Satisfied,Card,Yes,22,38,59,59,26,182,23
+119,Extremely likely,Slightly convenient,Extremely suited,Garden,Male,20,Urban,Part-time,Once a week,Partially satisfied,Card,No,9,26,40,16,60,142,15
+120,Extremely likely,Quite convenient,Quite suited,Household,Male,20,Suburban,Full-time,Daily,Partially satisfied,Card,No,9,46,25,35,44,150,10
+121,Extremely likely,Quite convenient,Extremely suited,Garden,Male,19,Suburban,Part-time,Daily,Satisfied,Card,Yes,10,19,34,24,100,177,12
+122,Extremely likely,Slightly convenient,Extremely suited,Household,Male,23,Urban,Part-time,Daily,Satisfied,Card,Yes,20,38,38,45,28,149,16
+123,Extremely likely,Extremely convenient,Extremely suited,Household,Male,27,Urban,Full-time,Daily,Satisfied,Card,Yes,13,34,22,26,20,102,13
+124,Extremely likely,Extremely convenient,Extremely suited,Food,Female,25,Rural,Full-time,Daily,Satisfied,PayPal,Yes,22,59,59,59,69,246,10
+125,Extremely likely,Quite convenient,Extremely suited,Household,Male,38,Suburban,Full-time,More than once a month,Partially satisfied,Card,Yes,8,13,14,14,42,83,10
+126,Extremely likely,Extremely convenient,Extremely suited,Food,Male,25,Urban,Full-time,Daily,Satisfied,Card,Yes,19,59,59,59,69,246,16
+127,Slightly likely,Neither convenient nor inconvenient,Extremely suited,Food,Female,24,Urban,Full-time,Daily,Satisfied,Card,Yes,19,52,52,46,147,297,8
+128,Extremely likely,Slightly convenient,Quite suited,Clothes,Male,43,Urban,Full-time,More than once a week,Partially satisfied,Card,Yes,11,19,59,19,33,130,21
+129,Extremely likely,Extremely convenient,Extremely suited,Food,Female,33,Urban,Full-time,Daily,Satisfied,Card,Yes,19,40,34,40,36,150,15
+130,Extremely likely,Extremely convenient,Extremely suited,Household,Female,26,Rural,Full-time,Daily,Satisfied,Card,Yes,19,52,59,38,24,173,11
+131,Extremely likely,Extremely convenient,Slightly suited,Household,Male,30,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,10,14,59,38,68,179,14
+132,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Female,26,Suburban,Full-time,Daily,Satisfied,Card,Yes,16,26,26,34,27,113,14
+133,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,29,Suburban,Full-time,Daily,Satisfied,Card,Yes,19,26,26,26,21,99,13
+134,Slightly likely,Quite convenient,Extremely suited,Clothes,Female,24,Rural,Full-time,Daily,Satisfied,PayPal,Yes,16,16,18,16,73,123,16
+135,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Male,32,Urban,Full-time,Once a week,Partially satisfied,Card,No,10,25,19,19,95,158,11
+136,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,32,Rural,Full-time,More than once a month,Satisfied,Card,Yes,8,26,22,22,48,118,23
+137,Slightly likely,Extremely convenient,Neither suited nor unsuited,Clothes,Female,36,Urban,Full-time,Daily,Satisfied,Card,Yes,14,20,22,22,48,112,15
+138,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Female,36,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,13,22,24,31,126,203,10
+139,Slightly likely,Extremely convenient,Quite suited,Food,Male,56,Suburban,Full-time,Daily,Partially satisfied,Card,Yes,16,15,38,52,9,114,12
+140,Slightly likely,Neither convenient nor inconvenient,Slightly suited,Clothes,Female,34,Suburban,Full-time,Daily,Satisfied,Card,Yes,13,22,16,14,25,77,10
+141,Slightly likely,Quite convenient,Extremely suited,Clothes,Female,28,Suburban,Full-time,More than once a week,Partially satisfied,PayPal,Yes,15,40,38,34,77,189,20
+142,Slightly likely,Slightly convenient,Quite suited,Household,Female,23,Suburban,Full-time,Daily,Satisfied,Card,Yes,14,22,59,28,28,137,19
+143,Slightly likely,Extremely convenient,Extremely suited,Household,Female,28,Urban,Part-time,Daily,Satisfied,Card,Yes,8,35,30,31,49,145,23
+144,Slightly likely,Extremely convenient,Extremely suited,Food,Male,27,Rural,Full-time,Daily,Satisfied,Card,Yes,19,15,59,45,69,188,22
+145,Extremely likely,Quite convenient,Slightly suited,Clothes,Female,32,Rural,Part-time,Once a week,Partially satisfied,Card,No,11,16,22,14,22,74,10
+146,Extremely likely,Quite convenient,Neither suited nor unsuited,Clothes,Female,33,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,12,20,26,25,42,113,12
+147,Extremely likely,Quite convenient,Neither suited nor unsuited,Garden,Female,31,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,13,16,15,18,114,163,14
+148,Extremely likely,Extremely convenient,Extremely suited,Food,Male,29,Suburban,Full-time,Daily,Satisfied,Card,Yes,19,38,59,59,69,225,25
+149,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Female,28,Urban,Part-time,Daily,Satisfied,Card,Yes,14,25,45,28,38,136,16
+150,Extremely likely,Quite convenient,Extremely suited,Clothes,Female,25,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,11,22,25,26,15,88,10
+151,Extremely likely,Slightly convenient,Slightly suited,Food,Female,19,Suburban,Full-time,Daily,Satisfied,Card,Yes,15,22,52,30,48,152,23
+152,Extremely likely,Quite convenient,Slightly suited,Clothes,Male,22,Suburban,Full-time,Once a week,Partially satisfied,Card,No,8,26,52,14,20,112,14
+153,Extremely likely,Slightly convenient,Quite suited,Household,Male,20,Suburban,Full-time,Daily,Satisfied,Card,Yes,17,45,52,52,50,199,20
+154,Extremely likely,Quite convenient,Neither suited nor unsuited,Clothes,Female,20,Urban,Full-time,Daily,Satisfied,Card,Yes,15,22,38,34,33,127,14
+155,Extremely likely,Extremely convenient,Extremely suited,Household,Male,22,Suburban,Full-time,Daily,Satisfied,Card,Yes,17,35,59,45,69,208,12
+156,Extremely likely,Neither convenient nor inconvenient,Quite suited,Household,Female,18,Suburban,Full-time,Daily,Satisfied,PayPal,Yes,18,22,59,22,84,187,25
+157,Extremely likely,Extremely convenient,Extremely suited,Food,Male,30,Suburban,Full-time,Daily,Satisfied,Card,Yes,22,26,26,38,31,121,12
+158,Extremely likely,Quite convenient,Quite suited,Clothes,Female,20,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,10,28,59,22,26,135,9
+159,Extremely likely,Slightly convenient,Quite suited,Garden,Female,20,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,15,46,52,26,35,159,10
+160,Extremely likely,Quite convenient,Neither suited nor unsuited,Clothes,Male,36,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,12,14,46,14,52,126,8
+161,Extremely likely,Neither convenient nor inconvenient,Slightly suited,Household,Female,20,Suburban,Full-time,Daily,Satisfied,Card,Yes,11,31,59,26,30,146,6
+162,Extremely likely,Slightly convenient,Quite suited,Food,Female,20,Suburban,Full-time,Daily,Satisfied,Card,Yes,14,46,59,28,24,157,10
+163,Extremely likely,Quite convenient,Quite suited,Clothes,Male,19,Rural,Full-time,More than once a week,Partially satisfied,Card,No,10,40,14,16,43,113,6
+164,Extremely likely,Neither convenient nor inconvenient,Extremely suited,Food,Female,20,Rural,Student,Daily,Satisfied,Card,Yes,19,38,38,38,62,176,14
+165,Extremely likely,Neither convenient nor inconvenient,Quite suited,Clothes,Female,21,Urban,Student,Once a month,Partially satisfied,Card,No,11,26,52,38,15,131,12
+166,Extremely likely,Extremely convenient,Extremely suited,Food,Female,22,Suburban,Full-time,Daily,Satisfied,Card,Yes,17,59,59,59,62,239,12
+167,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,19,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,16,59,59,45,26,189,14
+168,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Male,23,Rural,Full-time,Daily,Satisfied,Card,Yes,16,46,26,30,8,110,9
+169,Extremely likely,Extremely convenient,Neither suited nor unsuited,Clothes,Female,27,Suburban,Full-time,Once a month,Partially satisfied,Card,Yes,8,8,14,12,21,55,10
+170,Extremely likely,Extremely convenient,Extremely suited,Food,Female,18,Rural,Full-time,Daily,Satisfied,Card,Yes,20,59,59,38,36,192,9
+171,Extremely likely,Quite convenient,Slightly suited,Household,Female,19,Urban,Full-time,More than once a week,Partially satisfied,PayPal,Yes,12,46,34,19,16,115,5
+172,Extremely likely,Extremely convenient,Quite suited,Clothes,Female,20,Rural,Full-time,More than once a week,Partially satisfied,Card,No,16,22,59,34,44,159,6
+173,Extremely likely,Extremely convenient,Extremely suited,Food,Female,21,Urban,Full-time,Daily,Satisfied,Card,Yes,19,59,59,59,69,246,12
+174,Extremely likely,Quite convenient,Extremely suited,Household,Female,18,Urban,Full-time,Daily,Satisfied,Card,Yes,19,31,59,52,12,154,11
+175,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Female,21,Urban,Full-time,Daily,Satisfied,Card,Yes,15,25,26,26,60,137,15
+176,Extremely likely,Slightly convenient,Slightly suited,Food,Male,19,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,10,14,22,22,12,70,10
+177,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Female,27,Rural,Full-time,Daily,Satisfied,Card,Yes,16,26,26,26,22,100,6
+178,Extremely likely,Slightly convenient,Slightly suited,Clothes,Male,19,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,10,19,38,25,54,136,11
+179,Extremely likely,Slightly convenient,Extremely suited,Clothes,Male,18,Rural,Full-time,Daily,Satisfied,Card,Yes,22,45,31,16,82,174,10
+180,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Male,20,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,8,13,16,30,24,83,12
+181,Extremely likely,Extremely convenient,Extremely suited,Food,Male,18,Urban,Full-time,Daily,Satisfied,Card,Yes,19,59,59,59,22,199,20
+182,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,18,Suburban,Full-time,Daily,Satisfied,Card,No,22,28,59,34,66,187,17
+183,Extremely likely,Extremely convenient,Extremely suited,Household,Female,21,Urban,Full-time,More than once a week,Partially satisfied,PayPal,Yes,8,40,59,52,38,189,16
+184,Extremely likely,Extremely convenient,Extremely suited,Garden,Male,36,Suburban,Part-time,Once a month,Partially satisfied,Card,No,9,13,16,11,31,71,10
+185,Extremely likely,Quite convenient,Extremely suited,Food,Female,22,Rural,Part-time,Once a week,Partially satisfied,Card,Yes,16,14,25,14,32,85,10
+186,Extremely likely,Slightly convenient,Quite suited,Garden,Female,22,Urban,Part-time,Once a week,Partially satisfied,Card,Yes,12,46,59,25,26,156,8
+187,Extremely likely,Neither convenient nor inconvenient,Extremely suited,Clothes,Female,28,Rural,Part-time,Daily,Satisfied,Card,Yes,13,26,38,38,126,228,25
+188,Extremely likely,Quite convenient,Neither suited nor unsuited,Clothes,Male,41,Suburban,Part-time,Once a week,Partially satisfied,Card,No,9,14,22,14,18,68,7
+189,Extremely likely,Slightly convenient,Neither suited nor unsuited,Clothes,Male,31,Urban,Part-time,More than once a week,Partially satisfied,Card,No,12,18,30,25,22,95,22
+190,Extremely likely,Quite convenient,Quite suited,Clothes,Female,41,Suburban,Student,Once a week,Partially satisfied,Card,No,9,14,14,14,48,90,9
+191,Extremely likely,Extremely convenient,Quite suited,Clothes,Female,31,Rural,Student,Once a month,Partially satisfied,Card,No,8,14,14,14,28,70,10
+192,Extremely likely,Slightly convenient,Quite suited,Food,Male,30,Suburban,Full-time,More than once a month,Partially satisfied,Card,No,8,14,26,14,48,102,11
+193,Extremely likely,Extremely convenient,Extremely suited,Clothes,Male,23,Suburban,Part-time,Once a month,Partially satisfied,Card,No,13,7,19,11,62,99,5
+194,Extremely likely,Extremely convenient,Extremely suited,Clothes,Male,24,Rural,Part-time,Once a month,Partially satisfied,Card,Yes,8,11,22,11,3,47,3
+195,Extremely likely,Quite convenient,Quite suited,Clothes,Male,22,Rural,Part-time,More than once a month,Partially satisfied,Card,No,10,14,19,14,78,125,14
+196,Extremely likely,Quite convenient,Quite suited,Clothes,Female,23,Suburban,Part-time,More than once a week,Partially satisfied,PayPal,Yes,11,22,34,25,70,151,10
+197,Extremely likely,Quite convenient,Quite suited,Clothes,Male,24,Urban,Part-time,Once a month,Partially satisfied,Card,Yes,8,14,14,14,70,112,12
+198,Extremely likely,Quite convenient,Quite suited,Clothes,Female,26,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,8,12,59,14,6,91,10
+199,Extremely likely,Quite convenient,Extremely suited,Household,Male,25,Rural,Part-time,Once every few months,Partially satisfied,Card,No,8,14,14,12,42,82,9
+200,Extremely likely,Quite convenient,Quite suited,Clothes,Male,36,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,10,14,59,14,36,123,16
+201,Extremely likely,Slightly convenient,Neither suited nor unsuited,Clothes,Female,22,Rural,Student,Once a week,Partially satisfied,Card,Yes,9,14,46,16,16,92,10
+202,Extremely likely,Quite convenient,Quite suited,Clothes,Female,37,Urban,Student,Once a month,Partially satisfied,Card,No,8,14,14,13,48,89,10
+203,Extremely likely,Slightly convenient,Neither suited nor unsuited,Garden,Female,22,Suburban,Part-time,Once a week,Partially satisfied,Card,No,14,20,31,40,6,97,8
+204,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Male,26,Urban,Part-time,Once a week,Partially satisfied,Card,Yes,10,16,19,19,22,76,10
+205,Extremely likely,Slightly convenient,Quite suited,Clothes,Male,26,Suburban,Part-time,More than once a week,Partially satisfied,Card,Yes,11,14,59,19,13,105,12
+206,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Female,22,Rural,Part-time,Daily,Satisfied,Card,Yes,16,22,26,26,47,121,15
+207,Extremely likely,Extremely convenient,Extremely suited,Clothes,Male,21,Suburban,Part-time,Once a month,Partially satisfied,Card,Yes,8,12,14,11,147,184,19
+208,Extremely likely,Slightly convenient,Slightly suited,Household,Female,22,Rural,Part-time,Once a week,Partially satisfied,Card,No,14,13,19,16,84,132,20
+209,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,23,Rural,Part-time,Daily,Satisfied,Card,Yes,16,13,31,14,64,122,11
+210,Extremely likely,Neither convenient nor inconvenient,Slightly suited,Household,Female,21,Rural,Part-time,Daily,Satisfied,Card,Yes,14,16,25,16,16,73,10
+211,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Female,21,Urban,Part-time,Daily,Partially satisfied,Card,Yes,12,22,26,22,119,189,11
+212,Extremely likely,Extremely convenient,Neither suited nor unsuited,Food,Female,21,Rural,Part-time,Once a week,Partially satisfied,Card,Yes,9,16,14,14,44,88,12
+213,Extremely likely,Slightly convenient,Slightly suited,Garden,Male,27,Suburban,Part-time,More than once a week,Partially satisfied,Card,No,11,28,52,14,68,162,16
+214,Extremely likely,Slightly convenient,Slightly suited,Clothes,Female,40,Rural,Part-time,Once a week,Partially satisfied,Card,No,8,8,16,16,17,57,20
+215,Extremely likely,Slightly convenient,Neither suited nor unsuited,Clothes,Female,20,Rural,Part-time,Once a week,Partially satisfied,PayPal,No,12,18,26,19,23,86,22
+216,Extremely likely,Neither convenient nor inconvenient,Slightly suited,Household,Male,25,Urban,Part-time,More than once a week,Partially satisfied,Card,Yes,12,19,38,14,21,92,16
+217,Extremely likely,Slightly convenient,Slightly suited,Food,Female,27,Suburban,Part-time,More than once a week,Partially satisfied,Card,Yes,13,40,59,46,33,178,22
+218,Extremely likely,Quite convenient,Quite suited,Clothes,Male,27,Suburban,Part-time,More than once a week,Partially satisfied,Card,Yes,11,14,14,14,39,81,10
+219,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,21,Urban,Part-time,Daily,Satisfied,Card,Yes,16,40,52,40,63,195,15
+220,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,22,Urban,Part-time,Daily,Satisfied,Card,Yes,8,40,40,40,14,134,12
+221,Extremely likely,Slightly convenient,Slightly suited,Garden,Male,23,Suburban,Part-time,Once a week,Partially satisfied,Card,No,14,13,26,19,20,78,10
+222,Extremely likely,Extremely convenient,Extremely suited,Garden,Female,22,Suburban,Part-time,Daily,Partially satisfied,Card,Yes,13,14,59,14,36,123,13
+223,Extremely likely,Quite convenient,Slightly suited,Household,Female,22,Urban,Part-time,Once a week,Partially satisfied,Card,Yes,10,40,34,40,56,170,16
+224,Extremely likely,Extremely convenient,Neither suited nor unsuited,Clothes,Female,31,Rural,Student,Once a week,Partially satisfied,Card,Yes,14,16,25,16,59,116,14
+225,Extremely likely,Extremely convenient,Neither suited nor unsuited,Household,Female,25,Urban,Part-time,Daily,Partially satisfied,Card,Yes,13,9,59,22,17,107,10
+226,Extremely likely,Slightly convenient,Quite suited,Clothes,Female,21,Suburban,Part-time,More than once a month,Partially satisfied,Card,Yes,8,13,19,19,58,109,10
+227,Extremely likely,Quite convenient,Extremely suited,Clothes,Female,21,Suburban,Part-time,Once a week,Partially satisfied,Card,Yes,9,15,25,25,30,95,9
+228,Extremely likely,Quite convenient,Quite suited,Clothes,Female,23,Urban,Part-time,Once a month,Partially satisfied,Card,Yes,8,14,12,14,40,80,8
+229,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,22,Urban,Part-time,Daily,Partially satisfied,Card,Yes,8,59,59,59,12,189,10
+230,Extremely likely,Extremely convenient,Extremely suited,Food,Female,23,Urban,Part-time,Daily,Satisfied,Card,Yes,14,45,59,52,63,219,22
+231,Extremely likely,Quite convenient,Slightly suited,Clothes,Female,23,Rural,Part-time,Once a month,Partially satisfied,Card,Yes,8,14,26,12,80,132,20
+232,Extremely likely,Slightly convenient,Slightly suited,Clothes,Male,21,Suburban,Part-time,More than once a week,Partially satisfied,Card,Yes,10,22,46,12,82,162,16
+233,Extremely likely,Quite convenient,Neither suited nor unsuited,Household,Male,23,Suburban,Part-time,More than once a week,Partially satisfied,PayPal,Yes,18,30,34,40,48,152,18
+234,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,23,Suburban,Part-time,More than once a week,Partially satisfied,Card,Yes,11,26,30,16,16,88,16
+235,Extremely likely,Slightly convenient,Quite suited,Garden,Male,21,Suburban,Part-time,Once a week,Partially satisfied,Card,Yes,15,52,22,18,78,170,10
+236,Extremely likely,Slightly convenient,Quite suited,Household,Male,22,Suburban,Part-time,Daily,Satisfied,Card,Yes,16,26,26,26,19,97,10
+237,Extremely likely,Extremely convenient,Extremely suited,Clothes,Male,23,Suburban,Part-time,Once a month,Partially satisfied,Card,No,8,15,26,11,56,108,19
+238,Extremely likely,Slightly convenient,Slightly suited,Garden,Female,22,Suburban,Part-time,Once a week,Partially satisfied,Card,Yes,11,28,45,35,63,171,18
+239,Extremely likely,Slightly convenient,Neither suited nor unsuited,Household,Female,35,Suburban,Part-time,Daily,Satisfied,Card,Yes,15,25,19,25,49,118,12
+240,Extremely likely,Quite convenient,Neither suited nor unsuited,Clothes,Female,24,Rural,Part-time,Daily,Partially satisfied,Card,Yes,9,12,16,12,6,46,10
+241,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,27,Suburban,Part-time,Daily,Satisfied,Card,Yes,19,22,26,26,48,122,11
+242,Extremely likely,Quite convenient,Neither suited nor unsuited,Household,Male,23,Suburban,Part-time,Once a week,Partially satisfied,Card,Yes,12,22,25,19,48,114,19
+243,Extremely likely,Quite convenient,Quite suited,Clothes,Female,23,Urban,Part-time,Once a month,Partially satisfied,Card,No,8,13,19,12,37,81,15
+244,Extremely likely,Extremely convenient,Extremely suited,Garden,Male,21,Suburban,Part-time,Daily,Satisfied,Card,Yes,12,31,59,38,26,154,11
+245,Extremely likely,Slightly convenient,Extremely suited,Food,Female,44,Rural,Part-time,Once a month,Partially satisfied,Card,Yes,16,26,38,59,17,140,12
+246,Extremely likely,Extremely convenient,Extremely suited,Food,Male,21,Urban,Full-time,Daily,Partially satisfied,Card,Yes,20,59,59,59,69,246,10
+247,Extremely likely,Quite convenient,Slightly suited,Household,Male,20,Rural,Full-time,Daily,Satisfied,Card,Yes,16,52,38,34,72,196,19
+248,Extremely likely,Quite convenient,Slightly suited,Garden,Male,19,Rural,Full-time,Once a month,Partially satisfied,Card,Yes,8,14,16,14,50,94,12
+249,Extremely likely,Quite convenient,Quite suited,Food,Male,19,Suburban,Full-time,Daily,Satisfied,PayPal,Yes,19,46,59,28,65,198,18
+250,Extremely likely,Quite convenient,Extremely suited,Clothes,Female,20,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,11,52,38,52,24,166,20
+251,Extremely likely,Quite convenient,Quite suited,Food,Female,28,Urban,Full-time,More than once a week,Satisfied,Card,No,10,31,59,17,147,254,26
+252,Extremely likely,Quite convenient,Slightly suited,Clothes,Female,38,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,13,14,14,16,30,74,9
+253,Extremely likely,Slightly convenient,Neither suited nor unsuited,Clothes,Male,20,Suburban,Full-time,More than once a week,Partially satisfied,Card,Yes,11,16,22,16,41,95,9
+254,Extremely likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Female,24,Suburban,Full-time,Daily,Satisfied,Card,Yes,17,38,38,38,20,134,14
+255,Extremely likely,Quite convenient,Slightly suited,Clothes,Female,19,Urban,Full-time,Once a week,Partially satisfied,Card,No,8,6,14,11,84,115,12
+256,Extremely likely,Quite convenient,Quite suited,Clothes,Female,20,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,9,10,16,16,38,80,15
+257,Extremely likely,Slightly convenient,Quite suited,Food,Female,23,Urban,Full-time,More than once a week,Partially satisfied,Card,Yes,20,20,17,20,42,99,9
+258,Extremely likely,Quite convenient,Slightly suited,Clothes,Male,20,Suburban,Full-time,Once a month,Partially satisfied,Card,Yes,8,4,14,12,9,39,10
+259,Extremely likely,Neither convenient nor inconvenient,Extremely suited,Household,Female,20,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,11,28,52,15,25,120,16
+260,Extremely likely,Slightly convenient,Slightly suited,Garden,Female,20,Suburban,Full-time,Daily,Satisfied,Card,Yes,14,40,38,19,14,111,18
+261,Extremely likely,Extremely convenient,Extremely suited,Household,Female,20,Rural,Full-time,Once a month,Partially satisfied,PayPal,Yes,10,34,59,22,57,172,19
+262,Extremely likely,Slightly convenient,Quite suited,Food,Female,28,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,13,16,12,14,24,66,10
+263,Extremely likely,Quite convenient,Slightly suited,Garden,Male,19,Rural,Full-time,More than once a month,Partially satisfied,Card,No,8,19,35,31,13,98,14
+264,Extremely likely,Extremely convenient,Extremely suited,Household,Male,31,Rural,Full-time,More than once a week,Partially satisfied,Card,No,15,14,40,14,17,85,12
+265,Extremely likely,Slightly convenient,Quite suited,Food,Female,19,Rural,Full-time,Daily,Satisfied,Card,Yes,14,19,40,19,85,163,25
+266,Extremely likely,Extremely convenient,Quite suited,Clothes,Male,20,Rural,Full-time,Once a year,Partially satisfied,Card,Yes,8,14,22,12,56,104,12
+267,Extremely likely,Extremely convenient,Quite suited,Food,Male,33,Suburban,Full-time,Daily,Satisfied,Card,Yes,18,40,40,40,73,193,9
+268,Extremely likely,Slightly convenient,Slightly suited,Garden,Male,22,Rural,Full-time,Daily,Satisfied,Card,Yes,15,30,40,30,88,188,10
+269,Extremely likely,Extremely convenient,Slightly suited,Clothes,Female,42,Rural,Full-time,More than once a month,Partially satisfied,Card,Yes,9,13,34,14,49,110,18
+270,Extremely likely,Extremely convenient,Extremely suited,Clothes,Female,19,Urban,Full-time,Once a year,Partially satisfied,Card,No,10,7,26,11,28,72,9
+271,Extremely likely,Quite convenient,Quite suited,Clothes,Male,20,Suburban,Full-time,Once a week,Partially satisfied,Card,No,10,14,46,14,63,137,11
+272,Extremely likely,Quite convenient,Quite suited,Clothes,Male,20,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,10,59,45,19,52,175,15
+273,Extremely unlikely,Neither convenient nor inconvenient,Extremely suited,Food,Male,35,Urban,Full-time,Daily,Satisfied,PayPal,Yes,16,38,38,38,18,132,19
+274,Extremely unlikely,Quite convenient,Quite suited,Food,Male,23,Suburban,Full-time,Daily,Satisfied,Card,Yes,19,28,46,35,36,145,16
+275,Extremely unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Male,27,Urban,Full-time,Daily,Satisfied,Card,Yes,15,22,14,22,77,135,15
+276,Extremely unlikely,Quite convenient,Neither suited nor unsuited,Food,Male,41,Suburban,Full-time,Daily,Satisfied,Card,Yes,13,22,22,31,12,87,12
+277,Slightly unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Male,20,Suburban,Full-time,More than once a week,Satisfied,Card,Yes,15,22,25,20,92,159,19
+278,Quite likely,Quite convenient,Slightly suited,Clothes,Female,38,Suburban,Full-time,More than once a month,Partially satisfied,Card,No,8,8,12,12,20,52,10
+279,Quite likely,Extremely convenient,Extremely suited,Garden,Female,20,Suburban,Full-time,More than once a month,Partially satisfied,Card,Yes,8,9,18,11,12,50,8
+280,Quite likely,Slightly convenient,Slightly suited,Food,Male,22,Urban,Full-time,Once a month,Partially satisfied,Card,No,12,14,25,30,55,124,12
+281,Extremely unlikely,Extremely convenient,Extremely suited,Food,Male,24,Urban,Part-time,Daily,Satisfied,Card,Yes,21,40,59,52,56,207,11
+282,Slightly likely,Slightly convenient,Slightly suited,Clothes,Male,22,Urban,Part-time,More than once a week,Partially satisfied,Card,Yes,11,19,52,19,17,107,19
+283,Extremely unlikely,Quite convenient,Extremely suited,Food,Male,21,Suburban,Part-time,Daily,Satisfied,Card,Yes,14,46,59,22,50,177,18
+284,Quite unlikely,Extremely convenient,Quite suited,Garden,Male,21,Suburban,Part-time,More than once a week,Satisfied,Card,No,11,20,14,24,84,142,16
+285,Quite unlikely,Slightly convenient,Slightly suited,Household,Female,32,Urban,Student,Once a week,Partially satisfied,Card,Yes,12,30,34,28,16,108,15
+286,Slightly likely,Quite convenient,Extremely suited,Food,Male,19,Suburban,Full-time,Daily,Satisfied,Card,Yes,15,45,59,31,56,191,14
+287,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Garden,Male,19,Rural,Full-time,Daily,Satisfied,PayPal,Yes,12,28,26,19,36,109,12
+288,Slightly likely,Quite convenient,Extremely suited,Household,Male,19,Suburban,Full-time,Daily,Satisfied,Card,Yes,14,40,59,28,20,147,10
+289,Slightly likely,Quite convenient,Extremely suited,Household,Female,60,Suburban,Full-time,Daily,Satisfied,Card,Yes,19,28,59,38,49,174,9
+290,Slightly likely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Male,33,Urban,Full-time,Daily,Satisfied,Card,Yes,17,38,38,38,6,120,11
+291,Slightly likely,Quite convenient,Slightly suited,Clothes,Male,18,Suburban,Full-time,More than once a month,Partially satisfied,Card,No,8,15,52,19,45,131,26
+292,Slightly likely,Slightly convenient,Neither suited nor unsuited,Clothes,Male,23,Suburban,Full-time,Daily,Satisfied,Card,Yes,11,22,45,25,30,122,22
+293,Slightly likely,Extremely convenient,Extremely suited,Garden,Female,19,Rural,Full-time,Daily,Satisfied,Card,Yes,15,25,38,31,40,134,16
+294,Quite unlikely,Quite convenient,Quite suited,Household,Male,21,Rural,Full-time,Daily,Satisfied,Card,Yes,17,25,38,31,56,150,18
+295,Slightly likely,Quite convenient,Extremely suited,Garden,Male,18,Rural,Full-time,Daily,Satisfied,Card,Yes,16,28,52,52,84,216,11
+296,Slightly likely,Slightly convenient,Quite suited,Clothes,Female,19,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,8,14,34,14,35,97,10
+297,Slightly likely,Neither convenient nor inconvenient,Slightly suited,Household,Male,20,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,12,19,28,28,34,109,10
+298,Slightly likely,Slightly convenient,Slightly suited,Clothes,Female,20,Urban,Full-time,Daily,Partially satisfied,Card,Yes,16,26,38,20,21,105,9
+299,Slightly unlikely,Quite convenient,Quite suited,Clothes,Female,18,Urban,Full-time,More than once a week,Partially satisfied,PayPal,Yes,11,14,14,14,133,175,5
+300,Slightly likely,Slightly convenient,Quite suited,Household,Female,41,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,14,25,59,40,12,136,14
+301,Slightly likely,Quite convenient,Extremely suited,Food,Male,19,Rural,Full-time,Daily,Satisfied,Card,Yes,17,25,59,40,60,184,12
+302,Quite unlikely,Quite convenient,Quite suited,Garden,Female,19,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,12,38,59,45,12,154,10
+303,Slightly likely,Slightly convenient,Extremely suited,Food,Male,19,Urban,Full-time,Daily,Satisfied,Card,Yes,19,9,26,18,48,101,9
+304,Slightly likely,Extremely convenient,Extremely suited,Clothes,Male,20,Urban,Full-time,More than once a month,Partially satisfied,Card,No,10,19,19,12,45,95,12
+305,Slightly unlikely,Slightly convenient,Slightly suited,Household,Male,20,Rural,Full-time,More than once a month,Partially satisfied,Card,Yes,9,11,22,16,75,124,11
+306,Slightly likely,Extremely convenient,Extremely suited,Garden,Male,18,Rural,Full-time,Daily,Satisfied,Card,Yes,16,22,26,26,56,130,10
+307,Slightly likely,Quite convenient,Slightly suited,Clothes,Female,24,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,11,34,22,30,19,105,15
+308,Extremely unlikely,Neither convenient nor inconvenient,Extremely suited,Food,Female,19,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,14,38,38,31,42,149,19
+309,Slightly likely,Extremely convenient,Neither suited nor unsuited,Clothes,Female,19,Rural,Full-time,Once a month,Partially satisfied,PayPal,No,12,14,18,12,52,96,5
+310,Extremely unlikely,Quite convenient,Extremely suited,Food,Male,18,Suburban,Full-time,Daily,Partially satisfied,PayPal,Yes,21,35,13,22,35,105,14
+311,Quite unlikely,Slightly convenient,Slightly suited,Household,Female,21,Urban,Student,More than once a week,Partially satisfied,Card,Yes,12,31,14,26,48,119,12
+312,Quite unlikely,Quite convenient,Neither suited nor unsuited,Food,Female,19,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,9,16,14,14,21,65,10
+313,Slightly likely,Extremely convenient,Quite suited,Garden,Female,34,Rural,Full-time,Once a week,Partially satisfied,Card,No,10,38,59,11,34,142,9
+314,Extremely unlikely,Quite convenient,Quite suited,Food,Female,20,Rural,Full-time,Daily,Satisfied,Card,Yes,16,20,59,13,32,124,10
+315,Slightly likely,Slightly convenient,Slightly suited,Clothes,Female,21,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,14,6,22,11,27,66,6
+316,Neither likely nor unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Female,32,Urban,Full-time,Daily,Satisfied,Card,Yes,12,26,26,26,37,115,15
+317,Slightly likely,Slightly convenient,Neither suited nor unsuited,Garden,Female,21,Rural,Full-time,Daily,Satisfied,Card,Yes,19,38,28,22,54,142,20
+318,Quite unlikely,Quite convenient,Extremely suited,Garden,Female,20,Rural,Full-time,Daily,Satisfied,Card,Yes,11,22,24,28,72,146,20
+319,Slightly likely,Quite convenient,Extremely suited,Clothes,Female,31,Urban,Full-time,Daily,Satisfied,Card,Yes,16,59,59,38,57,213,26
+320,Slightly likely,Extremely convenient,Quite suited,Clothes,Female,19,Rural,Full-time,Once a month,Partially satisfied,Card,Yes,8,10,19,12,28,69,12
+321,Quite likely,Slightly convenient,Neither suited nor unsuited,Household,Female,19,Suburban,Full-time,Daily,Satisfied,PayPal,Yes,14,19,26,19,41,105,25
+322,Slightly likely,Quite convenient,Slightly suited,Clothes,Male,19,Rural,Full-time,Daily,Partially satisfied,Card,Yes,10,22,25,19,24,90,12
+323,Slightly likely,Quite convenient,Quite suited,Clothes,Male,19,Suburban,Full-time,Once a week,Partially satisfied,Card,No,14,15,59,17,102,193,24
+324,Quite likely,Slightly convenient,Neither suited nor unsuited,Clothes,Male,18,Rural,Full-time,Once a month,Partially satisfied,Card,No,12,14,26,14,42,96,10
+325,Slightly likely,Slightly convenient,Slightly suited,Household,Male,25,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,12,26,38,30,48,142,22
+326,Quite unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Household,Male,26,Rural,Full-time,Once a week,Partially satisfied,Card,No,9,12,59,14,45,130,16
+327,Quite unlikely,Slightly convenient,Slightly suited,Food,Male,20,Suburban,Full-time,Daily,Satisfied,Card,Yes,16,22,26,25,33,106,15
+328,Extremely unlikely,Slightly convenient,Quite suited,Household,Female,19,Suburban,Full-time,Daily,Satisfied,Card,Yes,12,14,28,22,84,148,11
+329,Extremely likely,Extremely convenient,Extremely suited,Clothes,Male,52,Urban,Full-time,Once a month,Partially satisfied,Card,No,8,9,59,11,147,226,10
+330,Quite unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Clothes,Male,28,Urban,Full-time,Daily,Satisfied,Card,Yes,16,18,22,19,12,71,9
+331,Slightly unlikely,Quite convenient,Extremely suited,Clothes,Female,21,Rural,Full-time,Once a week,Partially satisfied,PayPal,Yes,15,7,59,20,72,158,20
+332,Quite likely,Quite convenient,Extremely suited,Clothes,Male,19,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,10,25,26,16,20,87,10
+333,Slightly likely,Quite convenient,Quite suited,Food,Male,27,Suburban,Full-time,Daily,Satisfied,Card,Yes,17,26,52,38,18,134,11
+334,Quite likely,Quite convenient,Slightly suited,Household,Female,21,Urban,Full-time,More than once a month,Partially satisfied,Card,No,9,25,26,22,15,88,11
+335,Slightly likely,Slightly convenient,Neither suited nor unsuited,Food,Male,19,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,13,26,20,25,33,104,9
+336,Extremely likely,Quite convenient,Slightly suited,Household,Male,18,Suburban,Full-time,Once a month,Partially satisfied,Card,Yes,10,22,25,26,40,113,12
+337,Slightly likely,Quite convenient,Slightly suited,Food,Male,21,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,12,13,12,14,147,186,20
+338,Extremely unlikely,Slightly convenient,Slightly suited,Food,Male,25,Suburban,Full-time,Once a week,Partially satisfied,Card,Yes,14,14,22,14,50,100,10
+339,Quite likely,Quite convenient,Slightly suited,Clothes,Male,23,Suburban,Full-time,More than once a month,Partially satisfied,Card,No,13,10,16,35,23,84,10
+340,Extremely unlikely,Quite convenient,Slightly suited,Household,Female,19,Urban,Full-time,Daily,Satisfied,Card,Yes,16,14,16,16,10,56,9
+341,Quite unlikely,Quite convenient,Neither suited nor unsuited,Garden,Female,19,Urban,Full-time,Daily,Satisfied,Card,Yes,16,22,52,22,77,173,21
+342,Quite unlikely,Quite convenient,Slightly suited,Clothes,Female,19,Suburban,Full-time,More than once a week,Partially satisfied,Card,No,16,14,25,11,18,68,10
+343,Quite unlikely,Neither convenient nor inconvenient,Quite suited,Clothes,Female,19,Suburban,Full-time,More than once a week,Partially satisfied,PayPal,Yes,13,59,26,40,112,237,28
+344,Extremely unlikely,Slightly convenient,Extremely suited,Clothes,Female,19,Urban,Full-time,Daily,Satisfied,Card,Yes,13,52,59,52,30,193,19
+345,Slightly likely,Quite convenient,Quite suited,Garden,Female,30,Urban,Full-time,More than once a week,Satisfied,Card,Yes,15,38,28,28,15,109,10
+346,Extremely unlikely,Extremely convenient,Extremely suited,Food,Female,19,Urban,Full-time,Daily,Partially satisfied,Card,Yes,22,38,59,38,69,204,20
+347,Quite unlikely,Slightly convenient,Quite suited,Food,Male,18,Rural,Full-time,More than once a week,Partially satisfied,Card,No,17,13,35,28,56,132,14
+348,Slightly likely,Slightly convenient,Neither suited nor unsuited,Clothes,Female,18,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,13,22,59,18,44,143,14
+349,Extremely unlikely,Neither convenient nor inconvenient,Neither suited nor unsuited,Food,Female,18,Suburban,Full-time,Daily,Satisfied,Card,Yes,19,59,59,26,48,192,25
+350,Quite unlikely,Quite convenient,Quite suited,Clothes,Female,20,Urban,Full-time,More than once a week,Partially satisfied,PayPal,Yes,18,35,45,22,48,150,12
+351,Quite likely,Quite convenient,Slightly suited,Clothes,Female,20,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,18,13,16,16,44,89,9
+352,Quite unlikely,Extremely convenient,Quite suited,Clothes,Male,19,Urban,Full-time,Once a week,Partially satisfied,Card,Yes,12,8,26,22,35,91,11
+353,Slightly unlikely,Slightly convenient,Quite suited,Clothes,Female,20,Rural,Full-time,Daily,Partially satisfied,Card,No,9,14,26,16,48,104,8
+354,Slightly likely,Quite convenient,Slightly suited,Household,Female,20,Suburban,Full-time,Once a week,Partially satisfied,Card,No,10,31,19,16,12,78,6
+355,Quite unlikely,Slightly convenient,Slightly suited,Food,Male,19,Urban,Full-time,Daily,Satisfied,Card,Yes,16,22,46,22,9,99,10
+356,Quite unlikely,Quite convenient,Slightly suited,Garden,Female,19,Urban,Full-time,More than once a week,Partially satisfied,Card,No,13,14,28,19,84,145,6
+357,Quite likely,Slightly convenient,Neither suited nor unsuited,Clothes,Male,20,Rural,Full-time,Once a week,Partially satisfied,Card,Yes,11,14,38,18,65,135,18
+358,Extremely likely,Extremely convenient,Slightly suited,Clothes,Female,20,Suburban,Full-time,Once a year,Partially satisfied,Card,No,8,8,46,12,16,82,12
+359,Neither likely nor unlikely,Quite convenient,Extremely suited,Household,Female,21,Suburban,Full-time,Once a week,Partially satisfied,Card,No,12,9,18,12,18,57,12
+360,Neither likely nor unlikely,Quite convenient,Quite suited,Household,Male,18,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,10,20,46,14,12,92,14
+361,Extremely unlikely,Slightly convenient,Slightly suited,Clothes,Female,19,Urban,Full-time,Daily,Satisfied,Card,Yes,13,14,26,35,53,128,19
+362,Slightly likely,Quite convenient,Neither suited nor unsuited,Clothes,Female,18,Rural,Full-time,Once a week,Partially satisfied,PayPal,Yes,9,14,59,16,49,138,10
+363,Quite likely,Extremely convenient,Slightly suited,Clothes,Female,19,Rural,Full-time,Once a month,Partially satisfied,Card,Yes,8,6,16,12,107,141,10
+364,Slightly likely,Quite convenient,Neither suited nor unsuited,Clothes,Male,21,Urban,Full-time,Once a month,Partially satisfied,Card,No,8,13,35,14,20,82,5
+365,Quite unlikely,Quite convenient,Neither suited nor unsuited,Garden,Female,20,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,11,8,46,11,38,103,6
+366,Extremely unlikely,Extremely convenient,Extremely suited,Clothes,Female,18,Urban,Full-time,More than once a week,Partially satisfied,Card,No,12,28,59,45,9,141,12
+367,Quite likely,Quite convenient,Extremely suited,Household,Female,19,Suburban,Full-time,More than once a month,Partially satisfied,Card,No,8,14,19,12,58,103,11
+368,Extremely unlikely,Quite convenient,Extremely suited,Food,Female,19,Suburban,Full-time,Daily,Satisfied,Card,Yes,21,19,59,46,28,152,15
+369,Slightly likely,Quite convenient,Slightly suited,Clothes,Female,20,Suburban,Full-time,Once a week,Partially satisfied,Card,No,11,16,13,16,63,108,10
+370,Quite likely,Quite convenient,Slightly suited,Household,Female,21,Rural,Full-time,More than once a week,Partially satisfied,Card,Yes,13,34,25,20,28,107,16
+371,Extremely unlikely,Slightly convenient,Slightly suited,Garden,Male,28,Rural,Full-time,Daily,Satisfied,Card,Yes,17,45,59,35,50,189,11
+372,Quite likely,Extremely convenient,Extremely suited,Clothes,Female,22,Urban,Full-time,Once a month,Partially satisfied,PayPal,No,9,14,14,14,36,78,10
